@@ -3,7 +3,7 @@ With this code you can upload files with python to GitHub.
 
 ## Requirements
 Windows
-`py -m pip install -U pyGithub`
+`py -m pip install -U pyGithub`\n
 `py -m pip install -U colorama`
 
 
