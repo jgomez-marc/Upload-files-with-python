@@ -1,6 +1,6 @@
 from github import Github
 import time
-import colorama # print-color
+import colorama # colored-text
 from colorama import Fore, Back, Style
 
 colorama.init(autoreset=True)
