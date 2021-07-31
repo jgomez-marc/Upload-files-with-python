@@ -3,7 +3,9 @@ py -m pip install -U pyGithub
 -----------------------------
 py -m pip install -U colorama
 
+
+
 # MacOS / Linux
 python3 -m pip install -U pyGithub
 ----------------------------------
-python3 -m pip install -U colorame
+python3 -m pip install -U colorama
