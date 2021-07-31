@@ -28,7 +28,7 @@ while True:
                 repo.update_file(contents.path, f'commits', 'Here comes what going to be changed', contents.sha, branch='main')
                
                 print(f'{Fore.GREEN}Backup | createt!')
-                time.sleep(3600) 
+                time.sleep() # Here you can put the seconds that the code has to wait until it updates the file again
     except:
         print(f'{Fore.RED} Backup | error!')  
         break           
